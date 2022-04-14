@@ -5,3 +5,4 @@
 -- +----------+
 
 
+SELECT COUNT(reviewer_name) FROM reviews;
